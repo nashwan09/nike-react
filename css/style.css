@@ -1,0 +1,30 @@
+.top-section {
+    background-color: #FFF9F4;
+    height: 600px;
+}
+
+.banner-text {
+    color: red;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.banner-top img {
+    height: 407px;
+    width: 500px;
+}
+
+.cart-btn {
+
+    background-image: linear-gradient(to bottom, #4f2de4 0%, #3713ff 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 15px;
+
+}
+
+.cart-btn img {
+    height: 25px;
+    width: 25px;
+}
